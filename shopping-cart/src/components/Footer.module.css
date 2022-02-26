@@ -1,0 +1,17 @@
+.container{
+    background-color: #282c34;
+    height: 40px;
+    padding: 15px 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container p{
+    color: #61dafb ;
+    font-size:13px ;
+    font-weight: 700;
+}
+.container a{
+    text-decoration: none;
+}
